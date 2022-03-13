@@ -1,1 +1,3 @@
-Here will be information about the game created by me.
+Here will be information about the game created by me !!!
+The game is Tik-Tak-Toe.
+I will write this game in C#
