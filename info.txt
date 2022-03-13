@@ -1,3 +1,5 @@
 Here will be information about the game created by me !!!
 The game is Tik-Tak-Toe.
 I will write this game in C#
+There will be no GUI
+It's just console game
